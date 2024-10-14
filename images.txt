@@ -8,6 +8,7 @@
 
 # nodejs
 node:18-alpine
+node:latest
 
 # nginx
 nginx:1.27.2-alpine
