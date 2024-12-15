@@ -23,6 +23,5 @@ mysql:8.0.40
 mysql:latest
 
 # minIo
-minio/minio
 bitnami/minio:latest
 
