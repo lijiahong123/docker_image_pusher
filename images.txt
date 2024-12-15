@@ -24,4 +24,3 @@ mysql:latest
 
 # minIo
 bitnami/minio:latest
-
