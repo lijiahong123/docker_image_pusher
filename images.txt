@@ -17,3 +17,10 @@ nginx:1.27.2
 # redis
 redis:latest
 redis:7-alpine
+
+# mysql
+mysql:8.0.40
+mysql:latest
+
+# minIo
+minio/minio
