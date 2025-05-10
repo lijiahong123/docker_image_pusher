@@ -24,3 +24,6 @@ mysql:latest
 
 # minIo
 bitnami/minio:latest
+
+# mongodb
+mongo:latest
